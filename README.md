@@ -5,16 +5,16 @@ Tutorial to use github
 | tutorial | git |
 | something something hello | Hi|
 
-	```
+'''
 {
   "firstName": "Tyler",
   "lastName": "Jaf",
   "age": 29
 }
 ```
-[^1]: Hello footnote
+[^1]: Hello footnote.
 
-==Super Hello==
+==Super Hello==.
 
 CO~2
 
