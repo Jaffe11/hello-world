@@ -12,12 +12,12 @@ Tutorial to use github
   "age": 29
 }
 ```
-[^1]: Hello footnote.
+[^hello footnote].
 
 ==Super Hello==.
 
-CO~2
+CO~2.
 
-C^2^~2
+C^2^~2.
 
-~~good By~~
+~~good By~~.
